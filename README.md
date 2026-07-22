@@ -23,9 +23,8 @@ location: India
 currently_learning:
   - Large Language Models (LLMs)
   - Generative AI & RAG Systems
-  - LangChain & LangGraph
-  - AI Agents & MCP
-  - Vector Databases
+  - Real-time Communication Systems
+  - WebRTC & Video Streaming
 
 professional_experience:
   - company: Book My Pandit
@@ -46,8 +45,7 @@ professional_experience:
 interests:
   - Generative AI
   - Backend Architecture
-  - Cloud Technologies
-  - System Design
+  - Building Scalable Systems
 
 motto: "Code with purpose, learn continuously, build intelligently"
 ```
@@ -56,11 +54,10 @@ motto: "Code with purpose, learn continuously, build intelligently"
 
 ## 🚀 Current Focus
 
-- 🤖 Mastering **Large Language Models** and **Generative AI**
-- 🔗 Building with **LangChain** and **LangGraph**
-- 🎯 Creating **AI Agents** and automation systems
-- 📊 Working with **Vector Databases**
-- ☁️ Learning **AWS** and Cloud Architecture
+- 🤖 Exploring **Large Language Models** and **Generative AI**
+- 🎯 Building **AI-powered applications**
+- 💬 Developing **Real-time Communication Platforms**
+- 🗄️ Working with **Modern Databases** and caching systems
 
 ---
 
@@ -85,16 +82,9 @@ motto: "Code with purpose, learn continuously, build intelligently"
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### AI/ML & Tools
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### DevOps & Cloud
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Development Tools
@@ -167,14 +157,11 @@ Student information management system for educational institutions.
 
 ---
 
-## 🎯 Upcoming AI Projects
+## 🎯 Current Projects
 
-🚀 Currently planning and building:
+🚀 Currently building:
 
-- **AI Resume Analyzer** - NLP-powered resume parsing and analysis
-- **PDF Chatbot with RAG** - Chat with your documents using RAG architecture
-- **Multi-Agent Research Assistant** - Autonomous agents for research tasks
-- **AI Code Reviewer** - Automated code review using LLMs
+- **TalkTribe** - A real-time language exchange platform with video chat, matching system, and gamification features built with FastAPI, PostgreSQL, Redis, and WebRTC
 
 ---
 
@@ -189,6 +176,12 @@ Student information management system for educational institutions.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantrajput077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/hemantrajput077/hemantrajput077/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🏆 Achievements
@@ -197,7 +190,6 @@ Student information management system for educational institutions.
 - 🚀 **Backend Developer** with professional experience
 - 📚 **Fast Learner** - Quick adaptation to new technologies
 - 🌟 **Open Source Contributor** - Active in developer community
-- 🏗️ **System Design** - Building scalable architectures
 - 🤖 **AI Enthusiast** - Exploring GenAI and LLMs
 
 ---
